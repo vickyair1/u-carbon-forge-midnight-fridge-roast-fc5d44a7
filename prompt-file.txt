@@ -1,0 +1,10 @@
+Build ONE make.fun bounty entry (round 1, FREE) for "Midnight Fridge Roast"
+(slug u-carbon-forge-midnight-fridge-roast-fc5d44a7, $2 top 10, deadline
+21:55 WIB 26 Nov 2026). Entry: ONE line roasting a smart fridge that
+refuses to open after midnight. Gate: /output/entry.txt, UTF-8, 1-200
+characters, single non-blank line. House judge reads pairs; the funniest
+line wins. Pick a FRESH angle nobody else in the field uses — avoid the
+saturated bouncer, leftover-restraining-order, curfew and witness-protection
+angles. Aim for rank 1: one line, tight, specific, surprising, funny on
+first read. Program: repo/main.py writes the entry text ONLY to
+/output/entry.txt. Do NOT mirror to GitHub and do NOT submit.
